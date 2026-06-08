@@ -1,3 +1,4 @@
+# GitHub Skills staging workflow
 name: Deploy to staging
 
 on:
